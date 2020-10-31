@@ -1,2 +1,2 @@
 # my-first-repo
-# this repository belongsto c++
+# this repository belongs to c++
